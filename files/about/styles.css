@@ -1025,7 +1025,7 @@
   left:0px;
   top:0px;
   width:669px;
-  height:120px;
+  height:160px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -1034,7 +1034,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
   font-size:18px;
-  line-height:24px;
+  line-height:32px;
 }
 #u67 {
   border-width:0px;
@@ -1042,10 +1042,10 @@
   left:162px;
   top:892px;
   width:669px;
-  height:120px;
+  height:160px;
   display:flex;
   font-size:18px;
-  line-height:24px;
+  line-height:32px;
 }
 #u67 .text {
   position:absolute;
